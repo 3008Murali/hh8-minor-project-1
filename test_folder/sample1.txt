@@ -1,0 +1,3 @@
+This is a sample file created for ransomware simulation project.
+This file contains dummy data for educational testing only.
+Cybersecurity is important to protect data from attacks.
