@@ -1,4 +1,4 @@
-Name: Student Demo File
+Name: Murali
 Project: Ransomware Simulation
 Purpose: Academic demonstration only
 This file will be encrypted and decrypted using Python.
