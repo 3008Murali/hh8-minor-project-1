@@ -1,4 +1,1 @@
-Name: Murali
-Project: Ransomware Simulation
-Purpose: Academic demonstration only
-This file will be encrypted and decrypted using Python.
+gAAAAABpZivAccumbjpJqFZB_bsgw3C9uVymIUTRwgy8FwNiqkh3YCG3q9GPNcafIxXwoIRDdcBchjRXsd3Ec0NWvO1NEs7ITkLLyh_jjyRlvwaEj7-7bevg9uMPiAqU6nzbSbdQhxUrC-lPo989PuKV8lQIwVzWjzpe6aMsMkMHPXuA293Ic_eP5oPFYry_XZha4mN4rwuUVkmh6M-o95D0C1FQrD5RGoeoRPVSsXzVwFJbN1oYRamC6IZt-T1u9watcp6XLf9s
