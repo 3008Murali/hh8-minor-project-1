@@ -11,3 +11,10 @@ Python 3.x
 Cryptography Library (Fernet)
 VS Code
 Git & GitHub
+
+Running the Project
+1. Clone or Download the repository.
+2. Install the required library using:
+3. Make or position example files in `test_folder`.
+4. Run the encryption script: python encrypt.py 
+5. Execute a decryption script:
