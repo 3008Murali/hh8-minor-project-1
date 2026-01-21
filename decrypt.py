@@ -16,7 +16,7 @@ def decrypt_folder(folder_path):
                 encrypted_data = f.read()
 
             decrypted = fernet.decrypt(encrypted_data)
-
+            
             with open(file_path, "wb") as f:
                 f.write(decrypted)
 
