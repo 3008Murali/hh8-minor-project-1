@@ -17,4 +17,11 @@ Running the Project
 2. Install the required library using:
 3. Make or position example files in `test_folder`.
 4. Run the encryption script: python encrypt.py 
-5. Execute a decryption script:
+5. Execute a decryption script
+
+What I Learned
+Basics of ransomware behavior and file encryption
+Implementation of Symmetric Encryption Using Fernet
+Importance of protecting encryption keys
+Safe execution of security-related projects in a controlled environment
+Leverage GitHub as Version Management and Documentation Aid: GitHub is the platform used to manage
