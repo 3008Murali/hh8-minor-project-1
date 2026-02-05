@@ -17,7 +17,7 @@ def encrypt_folder(folder_path):
 
         if os.path.isfile(file_path):
             with open(file_path, "rb") as f:
-                data = f.read()
+               
 
             encrypted = fernet.encrypt(data)
     for file in os.listdir(folder_path):
